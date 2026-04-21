@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 # URL Shortener
+=======
+# URL-shortener-
+
+>>>>>>> 7a14bebddf2d3bcd2b47929ac671631d1499c4c4
 
 This is a fullstack url shortening project build with reactjs and nodejs
 
